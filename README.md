@@ -11,4 +11,4 @@ Expect to work through intuitive examples, vibrant visualizations, and actionabl
 
 I hope this tutorial sparks your curiosity and motivates you to explore and analyze your own datasets. Happy learning and discovering!
 
-[Embark on your journey to master data analysis now!](Iris_with_outliers_eda.ipynb.)
+[Embark on your journey to master data analysis now!](https://github.com/mehrsa1997/Iris_with_outliers_eda/blob/main/iris-with-outliers-eda.ipynb)
